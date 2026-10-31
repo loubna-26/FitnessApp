@@ -23,14 +23,21 @@ Permite ver y editar el perfil de una persona que realiza deporte.
 ## Estructura del proyecto
 
 com.loubna.fitnessapp
+
 ├── MainActivity.kt // Navega entre las dos pantallas y guarda los datos
+
 └── ui/theme 
+
 ├── componentes 
-│ ├── CalendarioPicker.kt // Selector de fecha 
+
+│ ├── CalendarioPicker.kt // Selector de fecha
+
 │ └── MenuDesplegable.kt // Menú desplegable 
 ├── screen 
 │ ├── ProfileScreen.kt // Pantalla de perfil 
+
 │ └── EditProfileScreen.kt // Pantalla de editar perfil 
+
 ├── Color.kt, Theme.kt, Type.kt
 
 
