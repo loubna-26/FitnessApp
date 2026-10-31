@@ -32,11 +32,10 @@ com.loubna.fitnessapp
 
 ## Abans i després
 
-| Pantalla | código original | código con vista |
+| Pantalla | Código original | Código con vista |
 |---|---|---|
-| **Perfil** | <img width="277" height="370" alt="Captura de pantalla 2026-10-30 215931" src="https://github.com/user-attachments/assets/43b5b58e-c6ac-4018-821e-83db23e623c1" />
- <img width="359" height="512" alt="Captura de pantalla 2026-10-31 202238" src="https://github.com/user-attachments/assets/3baeafbc-2c7b-415e-8652-bc1c9b3810ff" /> |
-| **Editar perfil** | <img width="359" height="756" alt="Captura de pantalla 2026-10-31 202218" src="https://github.com/user-attachments/assets/14b0a394-3d3a-4289-a94a-8c90130f5aa4" /> <img width="358" height="749" alt="image" src="https://github.com/user-attachments/assets/dd55a2d1-d31d-45c3-a849-0157b1114973" /> |
+| **Perfil** | <img width="220" alt="Perfil original" src="https://github.com/user-attachments/assets/43b5b58e-c6ac-4018-821e-83db23e623c1" /> | <img width="220" alt="Perfil nou" src="https://github.com/user-attachments/assets/3baeafbc-2c7b-415e-8652-bc1c9b3810ff" /> |
+| **Editar perfil** | <img width="220" alt="Editar perfil original" src="https://github.com/user-attachments/assets/14b0a394-3d3a-4289-a94a-8c90130f5aa4" /> | <img width="220" alt="Editar perfil nou" src="https://github.com/user-attachments/assets/dd55a2d1-d31d-45c3-a849-0157b1114973" /> |
  
 ## Autora
 
