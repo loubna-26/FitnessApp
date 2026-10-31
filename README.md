@@ -34,7 +34,8 @@ com.loubna.fitnessapp
 
 | Pantalla | Código original | Código con vista |
 |---|---|---|
-| **Perfil** | <img width="220" alt="Perfil original" src="https://github.com/user-attachments/assets/43b5b58e-c6ac-4018-821e-83db23e623c1" /> | <img width="363" height="535" alt="image" src="https://github.com/user-attachments/assets/f77ef961-9e66-46a5-ac3c-b677239a646f" /> |
+| **Perfil** | <img width="220" alt="Perfil original" src="https://github.com/user-attachments/assets/43b5b58e-c6ac-4018-821e-83db23e623c1" /> | <img width="267" height="424" alt="image" src="https://github.com/user-attachments/assets/196856e7-0220-44fd-ab50-4d61b1cb8ae2" />
+ |
 | **Editar perfil** | <img width="220" alt="Editar perfil original" src="https://github.com/user-attachments/assets/14b0a394-3d3a-4289-a94a-8c90130f5aa4" /> | <img width="220" alt="Editar perfil nou" src="https://github.com/user-attachments/assets/dd55a2d1-d31d-45c3-a849-0157b1114973" /> |
  
 ## Autora
