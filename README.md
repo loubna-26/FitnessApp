@@ -33,7 +33,9 @@ com.loubna.fitnessapp
 │ ├── CalendarioPicker.kt // Selector de fecha
 
 │ └── MenuDesplegable.kt // Menú desplegable 
+
 ├── screen 
+
 │ ├── ProfileScreen.kt // Pantalla de perfil 
 
 │ └── EditProfileScreen.kt // Pantalla de editar perfil 
