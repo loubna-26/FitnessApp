@@ -18,7 +18,7 @@ Permite ver y editar el perfil de una persona que realiza deporte.
 - Kotlin
 - Jetpack Compose
 - Android Studio
-- 
+  
 
 ## Estructura del proyecto
 
